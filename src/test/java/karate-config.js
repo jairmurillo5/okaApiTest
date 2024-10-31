@@ -1,6 +1,6 @@
 function fn() {
     karate.configure('ssl', true);
-          apiURL = 'https://pruebas.clinicasanfelipe.com'
+          apiURL = 'https://petstore.swagger.io/v2'
 
     var config = {
         apiURL: apiURL,
